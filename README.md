@@ -1,4 +1,4 @@
-# Quantum Computing Study Hub
+# Quantum Computing Study Materials
 
 **Collection of quantum computing learning materials, real-hardware experiments, simulators, textbooks, and useful links.**
 
